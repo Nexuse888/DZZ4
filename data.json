@@ -1,0 +1,11 @@
+{
+  "name": "Vadim",
+  "age": 17,
+  "is_married": false,
+  "money": null,
+  "colors": [ "green", "red", "blue"],
+  "address": {
+    "street": "Baker street",
+    "number": 55
+  }
+}
